@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Swagnanna1",
+    "database": "golden_anvil_database_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Swagnanna1",
+    "database": "golden_anvil_database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Swagnanna1",
+    "database": "golden_anvil_database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
