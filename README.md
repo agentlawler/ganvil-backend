@@ -23,7 +23,9 @@ The application has Users add magic items to their "cart", which should in turn 
     - nodemon
     - cors
     - morgan
+    - bcrypt
     
+
 
 - React
     - react-router-dom
